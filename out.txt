@@ -2520,211 +2520,211 @@
 9	When
 9	word
 9	world
-	10	10
-	10	1991
-	10	5000
-	10	April
-	10	because
-	10	CD
-	10	copied
-	10	date
-	10	de
-	10	distribution
-	10	European
-	10	had
-	10	Information
-	10	internet
-	10	License
-	10	long
-	10	machine
-	10	must
-	10	OF
-	10	On
-	10	over
-	10	paragraph
-	10	proofreading
-	10	released
-	10	scanned
-	10	such
-	10	term
-	10	than
-	10	very
-	10	would
-	10	your
-	11	1000
-	11	1998
-	11	1999
-	11	access
-	11	digitized
-	11	easily
-	11	every
-	11	example
-	11	library
-	11	life
-	11	our
-	11	should
-	12	2006
-	12	became
-	12	computer
-	12	copy
-	12	donations
-	12	Gutenbergs
-	12	June
-	12	like
-	12	much
-	12	OCR
-	12	we
-	12	website
-	13	2001
-	13	As
-	13	Copyright
-	13	December
-	13	DVD
-	13	English
-	13	including
-	13	May
-	13	project
-	13	without
-	14	-
-	14	1997
-	14	day
-	14	full
-	14	He
-	14	laws
-	14	make
-	14	online
-	14	processed
-	14	same
-	14	then
-	14	using
-	15	10000
-	15	2002
-	15	main
-	15	pages
-	15	several
-	15	who
-	16	different
-	16	February
-	16	For
-	16	into
-	16	Literary
-	16	only
-	16	original
-	16	through
-	16	two
-	16	You
-	17	agreement
-	17	Digitization
-	17	each
-	17	eText
-	17	files
-	17	if
-	17	January
-	17	many
-	17	people
-	17	proofread
-	17	set
-	17	version
-	18	A
-	18	after
-	18	goal
-	18	has
-	18	If
-	18	more
-	18	now
-	18	published
-	18	still
-	19	2000
-	19	Archive
-	19	free
-	19	Hart
-	19	he
-	19	may
-	19	possible
-	19	site
-	19	software
-	19	there
-	19	This
-	19	use
-	20	few
-	20	file
-	20	have
-	20	States
-	20	time
-	20	United
-	20	up
-	20	used
-	21	100
-	21	ASCII
-	21	July
-	21	no
-	21	page
-	21	posted
-	22	August
-	22	available
-	22	first
-	22	terms
-	23	formats
-	23	It
-	24	about
-	24	languages
-	24	new
-	24	October
-	24	text
-	25	2003
-	25	do
-	25	Foundation
-	25	one
-	26	French
-	27	they
-	27	volunteers
-	28	book
-	28	but
-	28	format
-	29	an
-	29	eTexts
-	29	month
-	31	per
-	31	Proofreaders
-	32	2004
-	32	Distributed
-	33	domain
-	33	number
-	33	which
-	35	electronic
-	36	its
-	36	not
-	36	public
-	36	will
-	37	2005
-	37	all
-	37	other
-	38	also
-	40	Michael
-	41	Europe
-	42	eBook
-	42	years
-	44	were
-	45	copyright
-	46	was
-	51	from
-	51	works
-	52	can
-	54	at
-	54	this
-	55	Gutenberg-tm
-	56	In
-	56	it
-	60	that
-	62	you
-	63	work
-	65	any
-	74	as
-	77	are
-	79	be
-	83	on
-	95	books
-	98	eBooks
+10	10
+10	1991
+10	5000
+10	April
+10	because
+10	CD
+10	copied
+10	date
+10	de
+10	distribution
+10	European
+10	had
+10	Information
+10	internet
+10	License
+10	long
+10	machine
+10	must
+10	OF
+10	On
+10	over
+10	paragraph
+10	proofreading
+10	released
+10	scanned
+10	such
+10	term
+10	than
+10	very
+10	would
+10	your
+11	1000
+11	1998
+11	1999
+11	access
+11	digitized
+11	easily
+11	every
+11	example
+11	library
+11	life
+11	our
+11	should
+12	2006
+12	became
+12	computer
+12	copy
+12	donations
+12	Gutenbergs
+12	June
+12	like
+12	much
+12	OCR
+12	we
+12	website
+13	2001
+13	As
+13	Copyright
+13	December
+13	DVD
+13	English
+13	including
+13	May
+13	project
+13	without
+14	-
+14	1997
+14	day
+14	full
+14	He
+14	laws
+14	make
+14	online
+14	processed
+14	same
+14	then
+14	using
+15	10000
+15	2002
+15	main
+15	pages
+15	several
+15	who
+16	different
+16	February
+16	For
+16	into
+16	Literary
+16	only
+16	original
+16	through
+16	two
+16	You
+17	agreement
+17	Digitization
+17	each
+17	eText
+17	files
+17	if
+17	January
+17	many
+17	people
+17	proofread
+17	set
+17	version
+18	A
+18	after
+18	goal
+18	has
+18	If
+18	more
+18	now
+18	published
+18	still
+19	2000
+19	Archive
+19	free
+19	Hart
+19	he
+19	may
+19	possible
+19	site
+19	software
+19	there
+19	This
+19	use
+20	few
+20	file
+20	have
+20	States
+20	time
+20	United
+20	up
+20	used
+21	100
+21	ASCII
+21	July
+21	no
+21	page
+21	posted
+22	August
+22	available
+22	first
+22	terms
+23	formats
+23	It
+24	about
+24	languages
+24	new
+24	October
+24	text
+25	2003
+25	do
+25	Foundation
+25	one
+26	French
+27	they
+27	volunteers
+28	book
+28	but
+28	format
+29	an
+29	eTexts
+29	month
+31	per
+31	Proofreaders
+32	2004
+32	Distributed
+33	domain
+33	number
+33	which
+35	electronic
+36	its
+36	not
+36	public
+36	will
+37	2005
+37	all
+37	other
+38	also
+40	Michael
+41	Europe
+42	eBook
+42	years
+44	were
+45	copyright
+46	was
+51	from
+51	works
+52	can
+54	at
+54	this
+55	Gutenberg-tm
+56	In
+56	it
+60	that
+62	you
+63	work
+65	any
+74	as
+77	are
+79	be
+83	on
+95	books
+98	eBooks
 108	The
 112	for
 114	by
