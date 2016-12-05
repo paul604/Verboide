@@ -2,6 +2,7 @@
 iconv -f ISO-8859-1 -t UTF-8 $1 |
  col -b |
  tr " " "\012" |
+ tr '\t' "\012" |
  sed -f commandesSED |
  sort -g |
  uniq -c |
