@@ -7,5 +7,5 @@ iconv -f ISO-8859-1 -t UTF-8 $1 |
  sort -g |
  uniq -c |
  sed -re 's/ /\t/g'|
- sed -re 's/\t\t//g'|
+ sed -re 's/\t\t+//g'|
  sort -nb > out.txt
