@@ -62,22 +62,17 @@
 1	1A
 1	1B
 1	1D
-1	1E1	The
-1	1E2	If
-1	1E3	If
-1	1E4	Do
-1	1E5	Do
-1	1E6	You
-1	1E7	Do
-1	1E8	You
-1	1E9	If
+1	1E2
+1	1E3
+1	1E4
+1	1E5
+1	1E6
 1	1F
-1	1F1	Project
-1	1F2	LIMITED
-1	1F3	LIMITED
-1	1F4	Except
-1	1F5	Some
-1	1F6	INDEMNITY
+1	1F1
+1	1F2
+1	1F4
+1	1F5
+1	1F6
 1	1x%
 1	20%
 1	2000s
@@ -169,11 +164,10 @@
 1	ACTUAL
 1	actually
 1	addition
+1	Additional
 1	additions
 1	address
 1	addressed
-1	addresses
-1	addresses	Donations
 1	adhering
 1	administrative
 1	Adopted
@@ -356,7 +350,6 @@
 1	completed
 1	completion
 1	Compliance
-1	compliance	To
 1	compression
 1	computing
 1	Computing
@@ -371,6 +364,7 @@
 1	considered
 1	constant
 1	constitutional
+1	Contact
 1	contacting
 1	Content
 1	context
@@ -535,7 +529,6 @@
 1	eventually
 1	ever
 1	Everybody
-1	Except
 1	EXCEPT
 1	exciting
 1	exclusion
@@ -572,7 +565,6 @@
 1	Fifteen
 1	fifty
 1	fifty-six
-1	file	**
 1	File
 1	filenames
 1	filetype
@@ -672,7 +664,6 @@
 1	History
 1	HISTORY
 1	hit
-1	holder	Additional
 1	holding
 1	Hollywood
 1	Hood
@@ -696,7 +687,7 @@
 1	http//wwwgutenbergorg/
 1	http//wwwgutenbergorg/1/0/2/3/10234
 1	http//wwwgutenbergorg/2/4/6/8/24689
-1http//wwwgutenbergorg/2/7/0/3/27039/
+1	http//wwwgutenbergorg/2/7/0/3/27039/
 1	http//wwwgutenbergorg/audio/
 1	http//wwwgutenbergorg/browse/languages/fr
 1	http//wwwgutenbergorg/browse/scores/top
@@ -727,12 +718,12 @@
 1	impractical
 1	inaccurate
 1	INCIDENTAL
-1	included	Thus
 1	INCLUDING
 1	incomplete
 1	indeed
 1	indefinitely
 1	indemnify
+1	INDEMNITY
 1	index
 1	Indexers
 1	indicate
@@ -817,7 +808,6 @@
 1	licensed
 1	lieues
 1	limitations
-1	LIMITED
 1	line
 1	link
 1	linked
@@ -829,8 +819,6 @@
 1	live
 1	locate
 1	locating
-1	locations
-1	locations	Its
 1	LoCC
 1	logiciels
 1	long-term
@@ -902,7 +890,6 @@
 1	nationale
 1	Nations
 1	natural
-1	Nearly
 1	necessarily
 1	needed
 1	NEGLIGENCE
@@ -978,7 +965,6 @@
 1	party
 1	passages
 1	paternity
-1	path	The
 1	patrimoine
 1	pay
 1	peninsula
@@ -1183,7 +1169,6 @@
 1	Seas
 1	Sections
 1	secure
-1	See
 1	seeing
 1	seems
 1	seen
@@ -1300,6 +1285,7 @@
 1	THROUGH
 1	throughout
 1	thus
+1	Thus
 1	TIF
 1	Times
 1	Title
@@ -1316,7 +1302,6 @@
 1	touch
 1	touching
 1	TRADEMARK
-1	trademark	Contact
 1	trademark/copyright
 1	transcribe
 1	transcription
@@ -1412,8 +1397,6 @@
 1	word-processing
 1	WORK
 1	worked
-1	works	Nearly
-1	works	See
 1	World
 1	WORLD
 1	writings
@@ -1448,8 +1431,6 @@
 2	1992
 2	1C
 2	1E
-2	1E7
-2	1E9
 2	2500-3000
 2	250-300
 2	27
@@ -1473,6 +1454,7 @@
 2	accordance
 2	across
 2	Actu
+2	addresses
 2	Advanced
 2	against
 2	ago
@@ -1616,6 +1598,7 @@
 2	everybody
 2	exactly
 2	except
+2	Except
 2	exempt
 2	expenses
 2	experienced
@@ -1708,6 +1691,7 @@
 2	listed
 2	lists
 2	loans
+2	locations
 2	lombre
 2	longer
 2	lower
@@ -1729,6 +1713,7 @@
 2	Music
 2	My
 2	name
+2	Nearly
 2	need
 2	NEF
 2	never
@@ -1760,7 +1745,6 @@
 2	package
 2	Page
 2	Past
-2	path
 2	paying
 2	PDAs
 2	People
@@ -1852,6 +1836,7 @@
 2	Search
 2	searched
 2	secondhand
+2	See
 2	seek
 2	semester
 2	send
@@ -1941,15 +1926,14 @@
 2	writer
 2	you!
 2	ZIP
-3	**
 3	1000000
 3	11
 3	11340
 3	12
 3	1972
 3	1995
-3	1E8
-3	1F3
+3	1E7
+3	1E9
 3	1st
 3	20000
 3	25
@@ -2001,7 +1985,6 @@
 3	come
 3	commercial
 3	comparing
-3	compliance
 3	complying
 3	conceived
 3	Constitution
@@ -2020,9 +2003,9 @@
 3	digitizing
 3	directly
 3	disposal
+3	Do
 3	does
 3	donate
-3	Donations
 3	downloads
 3	du
 3	e-books
@@ -2077,6 +2060,7 @@
 3	LICENSE
 3	Light
 3	limitation
+3	LIMITED
 3	M
 3	making
 3	March
@@ -2104,6 +2088,7 @@
 3	Parliament
 3	particularly
 3	past
+3	path
 3	payments
 3	PDF
 3	performing
@@ -2174,10 +2159,12 @@
 3	words
 3	writing
 3	wwwgutenbergorg
+4	**
 4	1976
 4	1989
 4	1996
-4	1E1
+4	1E8
+4	1F3
 4	2
 4	50
 4	90
@@ -2202,6 +2189,7 @@
 4	Charles
 4	check
 4	collection
+4	compliance
 4	computers
 4	confirmed
 4	copying
@@ -2210,6 +2198,7 @@
 4	current
 4	dated
 4	displaying
+4	Donations
 4	during
 4	Each
 4	eight
@@ -2223,7 +2212,6 @@
 4	General
 4	go
 4	hence
-4	included
 4	Independence
 4	instead
 4	italic
@@ -2266,7 +2254,6 @@
 4	texts
 4	thanks
 4	titles
-4	To
 4	TO
 4	too
 4	underlined
@@ -2281,6 +2268,7 @@
 5	13
 5	15
 5	1923
+5	1E1
 5	4000
 5	5
 5	accurate
@@ -2320,9 +2308,8 @@
 5	get
 5	give
 5	given
-5	holder
 5	HTML
-5	Its
+5	included
 5	Jules
 5	later
 5	Lebert
@@ -2352,13 +2339,13 @@
 5	September
 5	Shakespeare
 5	side
-5	Some
 5	Spanish
 5	state
 5	stated
 5	states
 5	THIS
 5	three
+5	To
 5	Top
 5	twice
 5	want
@@ -2392,6 +2379,8 @@
 6	France
 6	going
 6	himself
+6	holder
+6	Its
 6	just
 6	last
 6	Launching
@@ -2407,6 +2396,7 @@
 6	rules
 6	second
 6	some
+6	Some
 6	status
 6	support
 6	system
@@ -2494,7 +2484,6 @@
 8	standard
 8	THE
 8	These
-8	trademark
 8	year
 9	1971
 9	3
@@ -2525,6 +2514,7 @@
 9	There
 9	these
 9	They
+9	trademark
 9	US
 9	way
 9	When
@@ -2607,10 +2597,8 @@
 	14	same
 	14	then
 	14	using
-	14	You
 	15	10000
 	15	2002
-	15	If
 	15	main
 	15	pages
 	15	several
@@ -2624,6 +2612,7 @@
 	16	original
 	16	through
 	16	two
+	16	You
 	17	agreement
 	17	Digitization
 	17	each
@@ -2640,13 +2629,13 @@
 	18	after
 	18	goal
 	18	has
+	18	If
 	18	more
 	18	now
 	18	published
 	18	still
 	19	2000
 	19	Archive
-	19	file
 	19	free
 	19	Hart
 	19	he
@@ -2658,6 +2647,7 @@
 	19	This
 	19	use
 	20	few
+	20	file
 	20	have
 	20	States
 	20	time
@@ -2717,8 +2707,8 @@
 	44	were
 	45	copyright
 	46	was
-	49	works
 	51	from
+	51	works
 	52	can
 	54	at
 	54	this
@@ -2735,18 +2725,18 @@
 	83	on
 	95	books
 	98	eBooks
-106	The
+108	The
 112	for
 114	by
 115	with
 130	or
 142	Gutenberg
 175	is
-215	Project
+216	Project
 257	a
 281	to
 304	and
 358	in
 422	of
-555	
+556	
 671	the
