@@ -13,4 +13,4 @@ iconv -f ISO-8859-1 -t UTF-8 $1 |
 
 ./liste.sh
 
-fgrep -cf tmp.tmp liste/4000fr_1.tmp
+./reco.sh tmp.tmp
