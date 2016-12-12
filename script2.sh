@@ -11,7 +11,6 @@ iconv -f ISO-8859-1 -t UTF-8 $1 |
  sed -re 's/ |[0-9]//g'|
  awk '{print " "($0)" "}' > tmp.tmp
 
-# awk '{print " "($0)" "}' tmp >tmp.tmp
-awk '{print " "($0)" "}' liste/4000fr_1.txt >liste/4000fr_1.tmp
+./liste.sh
 
 fgrep -cf tmp.tmp liste/4000fr_1.tmp
