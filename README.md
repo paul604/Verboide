@@ -1,13 +1,35 @@
 # Verboide
 Mini projet du module "modélisation mathématique" (M3202) du DUT Informatique à l'IUT de Nantes<br/>
 
-<pre><code>./scrip.sh 27039-8.txt
-
+```
+Lancement du script:
 ./script2.sh 04tom10.txt
-./script2.sh fr
-./script2.sh es
-</code></pre>
+ou ./script2.sh fr
+ou ./script2.sh es
+```
+##Les scipts
+###[script2.sh](script2.sh)
+Il modifie le fichier passé en paramètre.
+  * met un mot par ligne.
+  * compte le nombre d'occurence de chaque mots.
+  * regroupe les même mot.
+  * et les trie.
+  * appelle [liste.sh](liste.sh)
+  * appelle [reco.sh](reco.sh)
+  
+###[liste.sh](liste.sh)
+  Permet de générer les .txt.tmp dans liste/
+  
+###[reco.sh](reco.sh)
+  Permet de trouver la langue du texte passé dans le bon format grace à script2.sh
 
+##Les dossier
+
+###[Liste](liste/)
+Il  __doit__  y avoir des fichier nommé: `4000XX.txt` (XX => initiale de la langue).
+dans ce fichier il doit y avoir un mot par ligne sans espace.
+
+  
 # LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
   <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
