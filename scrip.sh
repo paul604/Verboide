@@ -5,8 +5,10 @@
 
 iconv -f ISO-8859-1 -t UTF-8 $1 |
  col -b |
- tr " |\t" "\012" |
- sed 's/\W//g'|
+ awk '{print tolower($0)}'|
+ # tr " |\t" "\012" |
+ tr " " "\012" |
+ sed -re 's/\W//g' |
  #filtre négatif
  # fgrep -iw -vf fichiernegatif.txt|
  fgrep -iwvf tmp.txt|
