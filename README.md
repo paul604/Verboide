@@ -1,7 +1,12 @@
 # Verboide
 Mini projet du module "modélisation mathématique" (M3202) du DUT Informatique à l'IUT de Nantes<br/>
 
-<pre><code>./scrip.sh 27039-8.txt</code></pre>
+<pre><code>./scrip.sh 27039-8.txt
+
+./script2.sh 04tom10.txt
+./script2.sh fr
+./script2.sh es
+</code></pre>
 
 # LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
