@@ -1,5 +1,6 @@
 # Verboide
 Mini projet du module "modélisation mathématique" (M3202) du DUT Informatique à l'IUT de Nantes<br/>
+(le 22/01/2017)
 
 ```
 Lancement du script:
