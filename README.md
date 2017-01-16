@@ -7,7 +7,7 @@ Lancement du script:
 ou ./script2.sh fr
 ou ./script2.sh es
 ```
-##Les scipts
+##Les scripts
 ###[script2.sh](script2.sh)
 Il modifie le fichier passé en paramètre.
   * met un mot par ligne.
