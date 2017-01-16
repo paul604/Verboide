@@ -23,4 +23,6 @@ else
 
   #reco de la langue
   ./reco.sh tmp.tmp
+  
+  ./verb.sh tmp.tmp
 fi
