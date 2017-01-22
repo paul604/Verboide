@@ -23,12 +23,16 @@ Il modifie le fichier passé en paramètre.
   
 ###[reco.sh](reco.sh)
   Permet de trouver la langue du texte passé dans le bon format grace à script2.sh
-
+  
+###[verb.sh](verb.sh)
+  Permet de trouver les verbes les plus utiliser.
+  Pour le moment il touve tout les verbes utiliser.
+  
 ##Les dossier
 
 ###[Liste](liste/)
 Il  __doit__  y avoir des fichier nommé: `4000XX.txt` (XX => initiale de la langue).
-dans ce fichier il doit y avoir un mot par ligne sans espace.
+Dans ces fichier il doit y avoir un mot par ligne sans espace.
 
   
 # LICENSE
